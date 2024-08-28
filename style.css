@@ -1,5 +1,12 @@
 .nav{
-    background-image: url(/download\ \(1\).jpeg);
-    padding: 300px;
-    width: 300px;
+    background-image: url(/pngwing\ 10.png);
+    padding: 200px;
+    width: 1100px;
+    text-align: center;
+    background-color: fuchsia;
+}
+.moon{
+    text-align: center;
+    padding: 10px;
+
 }
